@@ -99,6 +99,7 @@ Acuuracy is 0.94
 A dashboard was also created to visualize key insights from the food delivery dataset.
 
 The dashboard focuses on understanding delivery performance and the factors affecting delivery time.
+<img width="908" height="582" alt="Screenshot 2026-09-05 224402" src="https://github.com/user-attachments/assets/1a76200e-95ef-470e-8417-4beab5d4f03f" />
 
 ## Tools & Technologies
 
